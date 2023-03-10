@@ -1,0 +1,3 @@
+.text-purple-50 {
+  color: color(config('colors.purple') a(50%));
+}
